@@ -1,5 +1,5 @@
 # Main config file for icon theme.
-theme = "hugo-icon"
+theme = ""
 baseURL = ""
 languageCode = "en-AU"
 title = "Yurt|Camp"
