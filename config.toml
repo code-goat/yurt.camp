@@ -96,7 +96,7 @@ title = "Yurt|Camp"
   [[params.services.item]]
     icon = "icon-wallet"
     title = "Affordable"
-    description = "We offer high quality, unique structures at an affordable prices."
+    description = "We offer high quality, unique structures at an affordable price."
   [[params.services.item]]
     icon = "icon-wrench"
     title = "Hand-Crafted"
