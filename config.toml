@@ -193,7 +193,7 @@ title = "Yurt|Camp"
     img = "images/gallery/10.jpg"
 # Team section
 [params.team]
-  enable = false
+  enable = true
   title = "Guild Members"
   description = "We are a collective working to promote our values through craft."
 
@@ -214,7 +214,7 @@ title = "Yurt|Camp"
 
   [[params.team.item]]
     name = "MaryRose"
-    position = "Chief overlord"
+    position = "Chairman Dick Master Overlord"
     description = "Passionate about ecology, water, friends"
     img = "images/person2.jpg"
     email = "#"
