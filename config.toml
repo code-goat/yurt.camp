@@ -227,9 +227,9 @@ title = "Yurt|Camp"
     whatsapp = "#"
 
   [[params.team.item]]
-    name = "Sour Dizzle"
+    name = "Sour Dizzle MD"
     position = "Assistant Supervisor"
-    description = "Where do the Dicks go, Chairman?"
+    description = "Where do the dicks go, Chairman?"
     img = "images/sourD.png"
     email = "contact@yurt.camp"
     telephone = "585-204-0531"
