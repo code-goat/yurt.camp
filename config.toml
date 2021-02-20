@@ -229,7 +229,7 @@ title = "Yurt|Camp"
   [[params.team.item]]
     name = "Sour Dizzle"
     position = "Assistant Supervisor"
-    description = "Where do the Dicks Go Chairman?"
+    description = "Where do the Dicks go Chairman?"
     img = "images/sourD.png"
     email = "contact@yurt.camp"
     telephone = "585-204-0531"
