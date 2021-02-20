@@ -59,7 +59,7 @@ title = "Yurt|Camp"
     weight = 3
     name = "Yakisugi"
     title = "Yakisugi"
-    subtitle = "We naturally treat all the wooden elements of our yurts. **Yakisugi (焼杉)** is a traditional Japanese method of wood preservation. Yaki means to heat with fire, and sugi is cypress. This process is also referred to in the West as burnt timber cladding and also known as **Shou Sugi Ban (焼杉板)**. By slightly charring the surface of the wood without combusting the whole piece, the wood becomes **water-proof** through the carbonisation and is thus **more durable**. It also **protects against insects, as well as making it fire retardant**."
+    subtitle = "We **naturally** treat all the wooden elements of our yurts. **Yakisugi (焼杉)** is a traditional Japanese method of wood preservation. Yaki means to heat with fire, and sugi is cypress. This process is also referred to in the West as burnt timber cladding and also known as **Shou Sugi Ban (焼杉板)**. By slightly charring the surface of the wood without combusting the whole piece, the wood becomes **water-proof** through the carbonisation and is thus **more durable**. It also **protects against insects, as well as making it fire retardant**."
     description = ""
 
   [[params.mission.item]]
