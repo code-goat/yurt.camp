@@ -71,8 +71,8 @@ title = "Yurt|Camp"
 
   [[params.mission.item]]
     weight = 5
-    name = "History of the Yurt"
-    title = "History of the Yurt"
+    name = "A History of the Yurt"
+    title = "A History of the Yurt"
     subtitle = "While we are continually inspired and devoted to the yurt as a living structure, the yurt is **a traditional Mongolian cultural dwelling**. For this reason we strongly encourage those able to do so, to purchase your yurt from ethnically Mongolian sources such as:\n\n **https://originalyurts.com** \n\nSupporting the ability for traditional people all over the world to practice their cultural crafts and technologies is essential. \n\n*Yurt* is a Turkish word for what Steppe people call a *Ger* (pronounced *Gher*). Yurts have been a distinctive feature of life in Central Asia for at least three thousand years. It is suggested that the Indo-European nomads (mostly Indo-Iranians) were the first that used yurts and similar tents in Central Asia and parts of Russia and Ukraine. The first written description of a yurt used as a dwelling was recorded by the ancient Greek historian Herodotus. He described yurt-like tents as the dwelling place of the Scythians, a horse riding-nomadic nation who lived in the northern Black Sea and Central Asian region from around 600 BC to AD 300."
     description = ""
 
