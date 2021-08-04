@@ -88,8 +88,8 @@ title = "Yurt|Camp"
 # Services section
 [params.services]
   enable = true
-  video = false
-  vidlink = "https://vimeo.com/483922187"
+  video = true
+  vidlink = "https://vimeo.com/582774496"
   title = "Our Services"
   description = "We are excited to work with you!"
 
