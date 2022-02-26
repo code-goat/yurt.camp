@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = ""
 languageCode = "en-AU"
-title = "Yurt|Camp"
+title = "Yurt|camp"
 
 # Metadata
 [params]
@@ -13,7 +13,7 @@ title = "Yurt|Camp"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "YURT|camp"
-  description = "A yurt building collective"
+  description = "A yurt building/making collective"
 
 # Navigation section
 [params.nav]
