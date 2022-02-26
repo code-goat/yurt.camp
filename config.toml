@@ -32,7 +32,7 @@ title = "Yurt|camp"
     enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/img_3.avif"
     [[params.mission.images.list]]
       img = "images/img_2.jpg"
     [[params.mission.images.list]]
