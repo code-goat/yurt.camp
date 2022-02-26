@@ -11,7 +11,7 @@ title = "Yurt|camp"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
-  img = "images/hero_bg.jpg"
+  img = "images/hero_bg.avif"
   title = "YURT|camp"
   description = "A yurt building collective"
 
@@ -34,11 +34,11 @@ title = "Yurt|camp"
     [[params.mission.images.list]]
       img = "images/img_3.avif"
     [[params.mission.images.list]]
-      img = "images/img_2.jpg"
+      img = "images/img_2.avif"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/img_1.avif"
     [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+      img = "images/img_4.avif"
 
 
     [[params.mission.item]]
@@ -135,62 +135,62 @@ title = "Yurt|camp"
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/1.jpg"
+    img = "images/gallery/1.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/2.jpg"
+    img = "images/gallery/2.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/3.jpg"
+    img = "images/gallery/3.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/4.jpg"
+    img = "images/gallery/4.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/12.jpg"
+    img = "images/gallery/12.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/6.jpg"
+    img = "images/gallery/6.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/7.jpg"
+    img = "images/gallery/7.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/8.jpg"
+    img = "images/gallery/8.avif"
 
 [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/9.jpg"
+    img = "images/gallery/9.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/5.jpg"
+    img = "images/gallery/5.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/11.jpg"
+    img = "images/gallery/11.avif"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/gallery/10.jpg"
+    img = "images/gallery/10.avif"
 # Team section
 [params.team]
   enable = false
