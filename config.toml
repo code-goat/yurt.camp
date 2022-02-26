@@ -13,7 +13,7 @@ title = "Yurt|camp"
 [params.hero]
   img = "images/hero_bg.avif"
   title = "YURT|camp"
-  description = "A yurt building collective"
+  description = "A yurt building collective YAY!"
 
 # Navigation section
 [params.nav]
